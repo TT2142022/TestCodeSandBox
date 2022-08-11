@@ -1,0 +1,22 @@
+{
+  "name": "testcodesandbox",
+  "version": "1.0.0",
+  "description": "First commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TT2142022/TestCodeSandBox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TT2142022/TestCodeSandBox/issues"
+  },
+  "homepage": "https://github.com/TT2142022/TestCodeSandBox#readme",
+  "dependencies": {
+    "swiper": "^8.3.2"
+  }
+}
